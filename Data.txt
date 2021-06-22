@@ -1,0 +1,35 @@
+-------------------------------------------------------------
+Weather Stats for - KOLKATA  || 22 Jun 2021 | 08:52:55 PM
+-------------------------------------------------------------
+Current temperature is: 28.97° C
+Current weather desc  haze:
+Current Humidity      94 %:
+Current wind speed    2.57 kmph:
+-------------------------------------------------------------
+Weather Stats for - KOLKATA  || 22 Jun 2021 | 08:54:08 PM
+-------------------------------------------------------------
+Current temperature is: 28.97° C
+Current weather desc  haze:
+Current Humidity      94 %:
+Current wind speed    2.57 kmph:
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 22 Jun 2021 | 08:58:28 PM
+-------------------------------------------------------------
+Current temperature is: 36.05° C
+Current weather desc  haze:
+Current Humidity      32 %:
+Current wind speed    2.57 kmph:
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 22 Jun 2021 | 08:59:08 PM
+-------------------------------------------------------------
+Current temperature is: 29.99° C
+Current weather desc  haze:
+Current Humidity      79 %:
+Current wind speed    4.12 kmph:
+-------------------------------------------------------------
+Weather Stats for - TEZU  || 22 Jun 2021 | 09:03:00 PM
+-------------------------------------------------------------
+Current temperature is: 24.64° C
+Current weather desc  broken clouds:
+Current Humidity      96 %:
+Current wind speed    1.75 kmph:
